@@ -1,0 +1,55 @@
+HTML {
+    background-color: rgb(168, 27, 27);
+    height: 100%;
+}
+
+#imgSS {
+    display: block;
+    margin-top: 10vh;
+    margin-left: 10vw;
+    background-color: black;
+    height: 80vh;
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
+}
+
+#slide1 {
+    width: 80vw;
+    height: 80vh;
+}
+
+#slide2 {
+    width: 0px;
+    height: 0px;
+}
+
+#slide3 {
+    width: 0px;
+    height: 0px;
+}
+
+#slide4 {
+    width: 0px;
+    height: 0px;
+}
+
+#slide5 {
+    width: 0px;
+    height: 0px;
+}
+
+#nextButton {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    bottom: 10vh;
+}
+
+#prevButton {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    bottom: 10vh;
+    right: 10vw;
+}
