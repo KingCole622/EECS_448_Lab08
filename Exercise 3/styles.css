@@ -1,0 +1,39 @@
+HTML {
+    width: 200vw;
+    height: 200vh;
+    background-color: sandybrown;
+}
+
+.profilePic {
+    width: 200px;
+    height: auto;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    background-color: black;
+    color: rgb(17, 202, 17);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+p:hover {
+    color: red;
+    font-size: 30px;
+}
+
+h1 {
+    position: absolute;
+    top: 120vh;
+    background-image: url(business-man.png);
+    width: 400px;
+    height: 400px;
+    background-repeat: repeat;
+}
+
+p.capital {
+    text-transform: uppercase;
+}
